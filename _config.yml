@@ -1,10 +1,10 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Researchly - Intelligente Patentanalyse im Handumdrehen
+author: Leopold Bosankic
+email: contact@leobosankic.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Researchly analysiert und visualisiert Patente.
+  Analysieren Sie Industrien, entdecken Sie Patenttrends und
+  vergleichen Sie Patentstrategien von Unternehmen.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -14,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Researchly 
+  tagline: Intelligente Patentanalyse im Handumdrehen
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -27,12 +27,3 @@ texture:
     github:  thelehhman
     linkedIn: in/thelehhman
     rss: rss
- 
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-# theme: texture
