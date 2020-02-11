@@ -1,3 +1,6 @@
+repo_url: 'https://researchly.github.io/researchly-blog'
+
+
 collections:
   authors:
     output: true
@@ -5,15 +8,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
       type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
     values:
       layout: "post"
