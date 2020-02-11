@@ -24,15 +24,15 @@ In den letzten Jahren hat Continental jedoch außerhalb der Autoreifenindustrie 
 
 Basierend auf den Patenten, blieb Continental seinen Reifengeschäft treu. Die Anzahl der angemeldeten 'Reifen-Patente' stieg weiter.
 
-![Patentrecherche]({{ site.url }}/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-2.png)
 
+![Patentrecherche]({{ "/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-2.png" | relative_url }})
 
 
 ## Patentmäßige Expansion in digitale Bereiche
 Nichtsdestotrotz schlug sich Continentals Expansion in deren Patenten nieder. So meldete Continental vermehrt Patente an, die mit 'digitalen Begriffen' wie 'kommunikation', 'display', 'daten', 'elektro' oder 'sensor' zusammenhängen.
 
+![Patentrecherche]({{ "/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-4.png" | relative_url }})
 
-![Patentrecherche]({{ site.url }}/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-4.png)
 
 Darunter fallen viele Patente im Bereich des IoT (Internet-of-Things) wie z. B. ein 'Verfahren und Vorrichtung zur Kommunikation mit einem anderen Fahrzeug oder mit einer Infrastruktureinrichtung'.
 
@@ -43,13 +43,15 @@ Darunter fallen viele Patente im Bereich des IoT (Internet-of-Things) wie z. B. 
 
 Zwar nicht so viel, dafür aber sehr intensiv, stieg die Anzahl der Patente, die mit 'automatisiert' zusammenhängen.
 
-![Patentrecherche]({{ site.url }}/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-5.png)
+![Patentrecherche]({{ "/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-5.png" | relative_url }})
+
 
 Darunter ein 'Verfahren und Vorrichtung zum Automatisierten Bremsen und Lenken eines Fahrzeugs'.
 
 Ein ähnliches Muster zeigt sich bei Patenten, die mich 'sicherheit' zusammenhängen. Auch hier stieg die Anzahl in den letzten Jahren rasant an.
 
-![Patentrecherche]({{ site.url }}/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-6.png)
+![Patentrecherche]({{ "/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-6.png" | relative_url }})
+
 
 
 
