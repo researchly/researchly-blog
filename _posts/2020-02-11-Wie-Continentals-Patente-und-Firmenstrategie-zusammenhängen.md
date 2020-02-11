@@ -7,7 +7,9 @@ Der Beitrag analysiert Continentals Patente. Continental fing als Reifenherstell
 
 Continental, gegründet 1898, hat seinen Firmenursprung in der Produktion von Autoreifen. Entsprechend veröffentlichen sie viele Patente in diesem Bereich. So hatte in den letzten zehn Jahren durchschnittlich jedes fünfte Patent mit Reifen zu tun.
 
-![Patentrecherche]({{ site.url }}/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-1.png)
+![Patentrecherche]({{ "/assets/img/Patentrecherche-Continetal-Alle-Patente-vs-Reifen-1.png" | relative_url }})
+
+
 
 In den letzten Jahren hat Continental jedoch außerhalb der Autoreifenindustrie expandiert. Darunter in software-, elektro- und techniklastige Felder.
 
