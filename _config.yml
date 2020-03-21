@@ -1,10 +1,9 @@
-title: Researchly - Intelligente Patentanalyse im Handumdrehen
+title: Technology scouting - the smart way
 author: Leopold Bosankic
 email: contact@leobosankic.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Researchly analysiert und visualisiert Patente.
-  Analysieren Sie Industrien, entdecken Sie Patenttrends und
-  vergleichen Sie Patentstrategien von Unternehmen.
+  Find new technology using the Knowledge Graph and natural language.
+   Identify technological hotspots, convergence, roadmaps and trends.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
