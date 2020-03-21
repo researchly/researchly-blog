@@ -219,7 +219,10 @@ header {
 
 .post-container {
 	img {
-		margin: 20px 0;
+		margin-top: 0px;
+	    margin-right: 0px;
+	    margin-bottom: 0px; // to have image caption below image
+	    margin-left: 0px;
 	}
 }
 
