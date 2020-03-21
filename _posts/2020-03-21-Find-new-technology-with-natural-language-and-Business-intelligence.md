@@ -2,6 +2,8 @@
 layout: post
 title:  "Find new technology with natural language and Business intelligence"
 date:   2020-03-21
+description: 'Use Researchly to discover a new technology using natural language and Business intelligence.'
+image: 'find-new-technology-with-natural-language-and-Business-intelligence-header-image.jpg'
 ---
 *This post shows how to use Researchly to discover a new technology using natural language and Business intelligence.*
 
