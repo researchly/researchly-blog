@@ -2,12 +2,23 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-<!-- Open Graph Tags  -->
+<!-- Twitter Tags  -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@researchly_">
+<meta name="twitter:creator" content="@leo_pold_b">
+<!-- Twitter Tags  -->
+
+
+<!-- Open Graph Tags  
+Source: https://gist.github.com/davidensinger/5431869
+-->
 <meta content="{{ site.title }}" property="og:site_name">
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
+  <meta name="twitter:title" content="{{ page.title }}">
 {% else %}
   <meta content="{{ site.title }}" property="og:title">
+  <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
 {% if page.title %}
   <meta content="article" property="og:type">
@@ -16,8 +27,10 @@
 {% endif %}
 {% if page.description %}
   <meta content="{{ page.description }}" property="og:description">
+  <meta name="twitter:description" content="{{ page.description }}">
 {% else %}
   <meta content="{{ site.description }}" property="og:description">
+  <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
@@ -28,8 +41,10 @@
 {% endif %}
 {% if page.image %}
   <meta content="{{ site.url }}/assets/img/posts/{{ page.image }}" property="og:image">
+  <meta name="twitter:image" content="{{ site.url }}/assets/img/posts/{{ page.image }}">
 {% else %}
   <meta content="{{ site.url }}/assets/img/logo-high-resolution.jpg" property="og:image">
+  <meta name="twitter:image" content="{{ site.url }}/assets/img/logo-high-resolution.jpg">
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
@@ -42,6 +57,8 @@
   {% endfor %}
 {% endif %}
 <!-- Open Graph Tags  -->
+
+
 
 
 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap" rel="stylesheet">
