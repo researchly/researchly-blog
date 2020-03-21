@@ -5,7 +5,7 @@ date:   2020-03-21
 description: 'Use Researchly to discover new technology using natural language and Business intelligence.'
 image: 'find-new-technology-with-natural-language-and-Business-intelligence-header-image.jpg'
 ---
-*This post shows how to use Researchly to discover a new technology using natural language and Business intelligence.*
+*This post shows how to use Researchly to discover new technology using natural language and Business intelligence.*
 
 To discover new technology, you must first define what it should do. Given the current COVID–19 spread, let’s use ‘detect a virus’. The easiest way to find technologies that can ‘detect a virus’ is [Researchly's Knowledge Graph](https://www.researchly.app/analytics/knowledgegraph?utm_source=528547e2&utm_medium=88682ffa&utm_campaign=edfcaff2). You can query the Knowledge Graph with human-readable sentences. In this case: ‘How to detect a virus?’
 
