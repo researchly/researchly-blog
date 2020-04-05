@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Text Mining to analyze technologies for innovation discovery"
+title:  "Text mining technological capabilities for innovation discovery"
 date:   2020-04-05
 description: 'This post describes how to find innovation opportunities using text mining to analyze the core capabilities behind technologies.'
 image: 'using-text-mining-to-analyze-technologies-for-innovation-discovery.jpg'
