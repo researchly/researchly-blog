@@ -2,9 +2,10 @@
 layout: post
 title:  "Text mining technological capabilities for innovation discovery"
 date:   2020-04-05
-description: 'This post describes how to find innovation opportunities using text mining to analyze the core capabilities behind technologies.'
+description: 'This post describes how to find innovation opportunities using text mining to analyze the capabilities behind technologies.'
 image: 'using-text-mining-to-analyze-technologies-for-innovation-discovery.jpg'
 ---
+*This post describes how to find innovation opportunities using text mining to analyze the capabilities behind technologies.*
 
 Based on a paper by Yoon, Park, et al. a company has three options to create new technologies or products:
 
