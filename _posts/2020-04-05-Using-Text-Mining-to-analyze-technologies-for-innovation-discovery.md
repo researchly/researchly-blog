@@ -2,11 +2,11 @@
 layout: post
 title:  "Using Text Mining to analyze technologies for innovation discovery"
 date:   2020-04-05
-description: 'This post describes how companies can innovate by using Text Mining to analyze products and technologies.'
-image: 'This post describes how companies can innovate by using Text Mining to analyze products and technologies.jpg'
+description: 'This post describes how to find innovation opportunities using text mining to analyze the core capabilities behind technologies.'
+image: 'using-text-mining-to-analyze-technologies-for-innovation-discovery.jpg'
 ---
 
-Based on a paper by Janghyeok Yoon, Hyunseok Park, Wonchul Seo, Jae-Min Lee, Byoung-youl Coh, and Jonghwa Kim, a company has three options to create new technologies or products:
+Based on a paper by Yoon, Park, et al. a company has three options to create new technologies or products:
 
 
 1. Develop new technologies by identifying overlapping capabilities between owned technologies and new technologies
@@ -51,7 +51,7 @@ Consider a hot air heater:
 
 
 
-Having said that, let's look at the innovation process.
+Having said that, let's look at the first possibiliy: 'Develop new technologies by identifying overlapping capabilities between owned technologies and new technologies'.
 
 ## Develop new technologies by identifying overlapping capabilities between owned technologies and new technologies
 In this scenario, the company owns one technology and develops a new technology by modifying the existing one.
@@ -74,7 +74,7 @@ By comparing these two technologies (hot_air_heater_tech_0 and automobile_radiat
 |:--:| 
 | *Overlapping capabilities indicate possible new technologies* |
 
-Now, by modifying hot_air_heater_tech_0 the company can develop 'automobile_radiator_tech_0'. 
+Now, by modifying 'hot_air_heater_tech_0' the company can develop 'automobile_radiator_tech_0'. In this fictional scenario (see image above), it means that the company must incorporate "Function D" into 'hot_air_heater_tech_0' to develop 'automobile_radiator_tech_0'.
 
 ## Produce new products using an owned technology
 In this scenario, the company uses a specific technology to produce a certain product. To innovate, the company wants to use that technology to produce a different product.
@@ -97,10 +97,10 @@ This means, that with their technology 'light_sensor' the company cannot only pr
 
 Please note that the paper only compares core technologies. There are, of course, technological differences between a light sensor and a headlight. But those technological differences are not considered 'core'.
 
-Of course, the company can also reverse the scenario. The next section describes the reverse scenario.
+Of course, the company can also reverse the scenario. The next section describes the reverse case.
 
 ## Improve existing products by using a new technology
-In this scenario, the company improves its existing product by applying a different technology.
+In this scenario, the company improves its existing product by using a different technology.
 
 For instance, the company's 'GPS receiver' does these things:
 
