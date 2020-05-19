@@ -55,7 +55,7 @@ To examine N26's Great Britain exit, this report analysis 1700 news articles (pu
 
 # N26 did not receive significant news coverage because their product offering was sparse compared to competitors like Revolut
 
-The graph shows products extracted from N26’s and Revolut’s websites. *Time periods: Revolut: 08.06.2020, N26: shortly before left Great Britain*
+The graph shows products extracted from N26’s and Revolut’s websites. *Periods: Revolut: 08.06.2020, N26: shortly before left Great Britain*
 
 | ![The pink icons are topics and the green icons are news articles]({{ "/assets/img/posts/n26_revolut_products_zoomed_notes.png" | relative_url }}) | 
 |:--:| 
