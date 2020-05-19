@@ -25,21 +25,21 @@ To examine N26's Great Britain exit, this report analysis 1700 news articles (pu
 
 | ![The pink icons are topics and the green icons are news articles]({{ "/assets/img/posts/query_1 2.png" | relative_url }}) | 
 |:--:| 
-| *The pink icons are topics and the green icons are news articles (Time period: Between N26’s entry into Great Britain and exit)* |
+| *The pink icons are topics and the green icons are news articles (Period: Between N26’s entry into Great Britain and exit)* |
 
 
 **Zooming in into the topics linked directly to Great Britain shows the monotonous news situation even clearer.**
 
 | ![The pink icons are topics and the green icons are news articles]({{ "/assets/img/posts/query_1_a 2.png" | relative_url }}) | 
 |:--:| 
-| *The pink icons are topics and the green icons are news articles (Time period: Between N26’s entry into Great Britain and exit)* |
+| *The pink icons are topics and the green icons are news articles (Period: Between N26’s entry into Great Britain and exit)* |
 
 
 # In contrast, there were not only more news about Revolut but also was the news landscape more diversified
 
 | ![The pink icons are topics and the green icons are news articles]({{ "/assets/img/posts/query_3 2.png" | relative_url }}) | 
 |:--:| 
-| *The pink icons are topics and the green icons are news articles (Time period: Between N26’s entry into Great Britain and exit)* |
+| *The pink icons are topics and the green icons are news articles (Period: Between N26’s entry into Great Britain and exit)* |
 
 
 **Zooming into Revolut’s news reveals several focus topics. Among them**:
@@ -50,7 +50,7 @@ To examine N26's Great Britain exit, this report analysis 1700 news articles (pu
 
 | ![The pink icons are topics and the green icons are news articles]({{ "/assets/img/posts/query_3_zoomed_notes.png" | relative_url }}) | 
 |:--:| 
-| *The pink icons are topics and the green icons are news articles (Time period: Between N26’s entry into Great Britain and exit)* |
+| *The pink icons are topics and the green icons are news articles (Period: Between N26’s entry into Great Britain and exit)* |
 
 
 # N26 did not receive significant news coverage because their product offering was sparse compared to competitors like Revolut
@@ -62,21 +62,21 @@ The graph shows products extracted from N26’s and Revolut’s websites. *Time 
 | *The pink icons are topics and the green icons are news articles* |
 
 
-Whereas they share some products like Insurance and transaction account, Revolut offers far more than N26. Among them “Cryptocurrency trading," a very popular topic - see next graph. (Time period: Between N26’s entry into Great Britain and exit).
+Whereas they share some products like Insurance and transaction account, Revolut offers far more than N26. Among them “Cryptocurrency trading," a very popular topic - see next graph. (Period: Between N26’s entry into Great Britain and exit).
 
 
 **News regarding Cryptocurrency/Bitcoin and Revolut is a hot topic.**
 
 | ![The pink icons are topics and the green icons are news articles]({{ "/assets/img/posts/revolut_cryptocurrency_zoomed_notes.png" | relative_url }}) | 
 |:--:| 
-| *The pink icons are topics and the green icons are news articles (Time period: Between N26’s entry into Great Britain and exit)* |
+| *The pink icons are topics and the green icons are news articles (Period: Between N26’s entry into Great Britain and exit)* |
 
 
 # Regarding Brexit, N26 was not very pro-active
 
 | ![The pink icons are topics and the green icons are news articles]({{ "/assets/img/posts/query_n26_brexit 2.png" | relative_url }}) | 
 |:--:| 
-| *The pink icons are topics and the green icons are news articles (Time period: Before Brexit [from 2017])* |
+| *The pink icons are topics and the green icons are news articles (Period: Before Brexit [from 2017])* |
 
 The only relevant topic was Mastercard.
 
@@ -85,7 +85,7 @@ The only relevant topic was Mastercard.
 
 | ![The pink icons are topics and the green icons are news articles]({{ "/assets/img/posts/query_revolut_brexit_zoomed_notes.png" | relative_url }}) | 
 |:--:| 
-| *The pink icons are topics and the green icons are news articles (Time period: Before Brexit [from 2017])* |
+| *The pink icons are topics and the green icons are news articles (Period: Before Brexit [from 2017])* |
 
 Focus topics were Europe and Luxembourg.
 
