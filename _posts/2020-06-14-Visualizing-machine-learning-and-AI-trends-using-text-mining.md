@@ -8,6 +8,10 @@ image: 'visualizing-machine-learning-AI-trends-using-text-mining.png'
 ---
 *Analysis of 1790 articles on Machine Learning and AI companies/products to visualize trends, company strategies, and topics.*
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ6v8h0WqvweM_6b_-DeSJPK9Odnen0N3UdVZj-yNH52OLmdZ9P1KPwzeCRY5fYWVdH57Ahq8BIKnam/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+*Find a text version below*
 
 # Topic overview
 Companies involved with AI/ML are associated with Analytics & BI, Cloud Computing, concrete AI/ML-applications, and AM/ML-development.
